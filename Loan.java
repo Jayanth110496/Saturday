@@ -15,7 +15,7 @@ int size = 2 * n - 1;
 //inner loop 1and2  
 for(int i = 1; i <= size; i++)  
 {  
-//outer loop      
+//outer loop  in 3 and 4    
 for(int j = 1; j <= size; j++)  
 {  
 //calculates and prints the values for pattern  
